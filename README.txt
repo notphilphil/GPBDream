@@ -2,7 +2,7 @@
 		                Philip Cornelius Glover's Magical GBA Game
 		                ------------------------------------------
 
-        Welcome to my stupid game. plz play
+        Welcome to my game!
 
         Who you are : 	George P. Burdell, legendary defender of the Georgia Tech Yellow Jackets
         
